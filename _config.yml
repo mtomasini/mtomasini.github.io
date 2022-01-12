@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Matteo Tomasini's research page
-subtitle: Researcher, Malécot's appreciator, future worrier
+subtitle: Researcher, Malécot's appreciator, social justice worrier
 email: matteo [dot] tomasini [at] gu [dot] se
 description: >- # this means to ignore newlines until "baseurl:"
   Postdoc at University of Gothenburg, fascinated by evolutionary processes
