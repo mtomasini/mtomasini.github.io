@@ -60,11 +60,11 @@ plugins:
 author:
   name   : "Matteo Tomasini"
   avatar : "/assets/images/tomasini_professional.jpg"
-  bio    : "Postdoc at University of Gothenburg, fascinated by evolutionary processes determining species distribution and diversity in space and time."
+  bio    : "Postdoc at University of Gothenburg, fascinated by evolutionary processes determining species distribution and diversity in space and time. Photo credit: Love Ekbeck."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://mtomasini.github.io"
+    #- label: "Website"
+    # icon: "fas fa-fw fa-link"
+    # url: "https://mtomasini.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mattomasini"
@@ -95,10 +95,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
