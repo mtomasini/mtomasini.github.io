@@ -1,7 +1,7 @@
 ---
 author: Matt
 title: I've always been told to keep my head down
-layout: post
+layout: posts
 ---
 
 Thinking about it, I've had a weird education. My parents were both primary school teachers. They taught me to be human and kind, and to treat others well and fairly. But this upbringing had its limits. When he was young, my father was into politics. He still likes politics, but he does not actively participate anymore. He told me stories about the inner working of active politics (NB: in Switzerland) that made me afraid of it. 

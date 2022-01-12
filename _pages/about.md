@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-[Here](../docs/CV.pdf) you can find my CV.
+[Here](/assets/docs/CV.pdf) you can find my CV.
 
 I am a postdoc in the [Rafajlović Evolution Modelling Group](https://www.gu.se/en/research/rafajlovic-evolution-modelling-group) at the University of Gothenburg. I am generally interested in evolution in space; in particular, in my research I try to understand how spatial and temporal factors influence the evolution of genetic patterns. At the University of Gothenburg, I am studying the effects of bottlenecks and allelic surfing during species' range shifts and expansions. In particular I am combining mathematical models and simulations with empirical spatially resolved genetic and ecological data from marine species in the Baltic Sea. Before moving to Scandinavia, I did a postdoc in the [Bradburd Lab](http://www.genescape.org/) at Michigan State University, where I worked on statistical methods to infer population parameters from genetic data collected in a spatially explicit environment.
 

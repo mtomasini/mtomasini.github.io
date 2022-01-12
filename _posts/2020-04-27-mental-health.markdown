@@ -1,7 +1,7 @@
 ---
 author: Matt
 title: Dealing with mental health in a pandemic
-layout: post
+layout: posts
 ---
 
 I’m not an expert of psychology in any way. I was also very lucky in the past, as I never had to endure struggles that had to do with mental health. So, disclaimer: I’m not talking as an expert at all!

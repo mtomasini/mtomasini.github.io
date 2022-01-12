@@ -1,7 +1,7 @@
 ---
 author: Matt
 title: A couple of thoughts about physicists 
-layout: post
+layout: posts
 ---
 
 Here's the truth: I did not study biology until late in my life. I hated the subject in high school. I was much more attracted to quantitative disciplines, such as mathematics and physics. So when the time came to choose a field of study, I enrolled at the University of Geneva to study physics. I will never forget the first day of the semester: we were about 40 in the room, this old classroom with wooden chairs and tables, and the always present blackboard. The introductory lecture was given by the president of the Section de Physique. Among all the administrative details, he used a sentence that I will never forget: "you are physicists, now. Sure, physicists in the making, but physicists nonetheless". That's how it started. 

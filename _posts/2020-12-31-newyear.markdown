@@ -1,7 +1,7 @@
 ---
 author: Matt
 title: About 2021
-layout: post
+layout: posts
 ---
 
 I've had this feeling in me for a couple of days now: "finally it's the end of this terrible year". But there's a problem: I can't figure out how and especially why 2021 should be any better than 2020. Of course, if all goes well, the pandemic will not be an issue anymore -- at some point before the end of the year. But was this really the problem that we faced in 2020? Was the pandemic the problem, or did it just contribute to show the emperor's new clothes? 

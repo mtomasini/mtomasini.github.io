@@ -1,0 +1,11 @@
+---
+author: Matt
+title: A timely update
+layout: posts
+---
+
+I took the new year and my current Covid status (positive) to update my website and in particular to migrate to a new theme, always using the very well done server of Github based on Ruby and Jekyll. I am happy with the result and I am hoping to update these pages more often from now on. I am hoping to get some grant money soon, in which case I might start updating more regularly about my work and about science in general. For now, this is what you get!
+
+Let me know (_e.g._ with a direct message on Twitter) if you find broken links and pages. I will be eternally grateful (OK, maybe not eternally, but for a couple of days at least).
+
+Cheers to a great 2022!
