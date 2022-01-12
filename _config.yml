@@ -14,13 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Matteo Tomasini's research page
+subtitle: Researcher, Malécot's appreciator, future worrier
 email: matteo [dot] tomasini [at] gu [dot] se
 description: >- # this means to ignore newlines until "baseurl:"
   Postdoc at University of Gothenburg, fascinated by evolutionary processes
   determining species distribution and diversity in space and time. 
 twitter_username: mattomasini
 github_username: mtomasini
-minimal_mistakes_skin: default
+minimal_mistakes_skin: "air" # "dirt", default
 search: true
 
 # Build settings
