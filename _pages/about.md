@@ -15,7 +15,7 @@ I have a keen interest in the technical side of population genetics: that is why
 
 I am also passionate about teaching: it is the duty of any person with knowledge to try and pass it to other people, and in particular to the new generations. That is why I am always happy to pursue projects of scientific dissemination.
 
-In my free time I like to do sports and to play music. Furthermore, I enjoy studying the art of magic (intended as illusion, not as dark magic); in the words of Spanish magician Miguel Angel Gea, "magic is the emotional disequilibrium of someone who doubts our existence; of someone who tells you that laws of nature are just hearsay, someone who will show you for a moment another possible world". I could hardly find a more fitting description to describe Science, too.
+In my free time I like to do sports and to play music. Furthermore, I enjoy studying the art of magic (intended as illusion, not as dark magic); in the words of Spanish magician Miguel Angel Gea, "magic is the emotional disequilibrium of someone who doubts our existence; of someone who tells you that laws of nature are just hearsay, someone who will show you for a moment another possible world". And in some way, I think this description is fitting for Science too: discovering Science is an emotional disequilibrium of someone who doubts your research question. I am the one who want to show you another possible world.
 
 
 ***
