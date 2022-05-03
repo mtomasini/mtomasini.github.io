@@ -11,6 +11,8 @@ People have fun collecting many different things. In the years I created quite a
     - Cagnes-sur-mer (18.08.10)
 - Nederland
     - Nijmegen (21.07.09)
+- Spain
+    - Barcelona (28.04.22)
 - Sverige
     - Borås (September 2021)
     - Göteborg (recurrent, 2021-present)
