@@ -14,6 +14,7 @@ I did my PhD in population genetics at University of Bern, where I completed my 
 
 I studied theoretical physics at University of Geneva, before completely switching topic and falling in love with evolutionary biology. It was a challenge to move from one field to the other, but it was worth it, and I never lose the opportunity to try and convince other physicists to do the same...
 
+Because of personal and professional interest, I am becoming more involved with activities aiming to highlight the importance of good software and programming practices in biology and in science in general. In the future, I would like to continue my career in a position akin to research software engineering, building and supporting scientific software for a more sustainable use of computational tools in my field. 
 
 - - -
 
