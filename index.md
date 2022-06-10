@@ -3,8 +3,7 @@ layout: single
 title: Home
 author_profile: true
 ---
-<sub>"[...] ils se moquaient souvent de ce que je voulais le savoir [...]. Mais, malgré ce désespoir, je ne laisse pas de désirer d'être instruit, et ma curiosité trompée est toujours insatiable."
-Voltaire, Le philosophe ignorant. [^1]</sub>
+> "[...] ils se moquaient souvent de ce que je voulais le savoir [...]. Mais, malgré ce désespoir, je ne laisse pas de désirer d'être instruit, et ma curiosité trompée est toujours insatiable." (Voltaire, Le philosophe ignorant[^1])
 
 - - -
 
