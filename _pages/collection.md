@@ -16,8 +16,8 @@ People have fun collecting many different things. In the years I created quite a
 - Sverige
     - Borås (recurrent, 2021-present)
     - Göteborg (recurrent, 2021-2022)
-    - Sälen (23.06.22)
     - Strömstad / Tjärnö (17-18.08.21)
+    - Sälen (23.06.22)
 - Schweiz / Suisse / Svizzera
     - Ascona (recurrent, 2006-2008)
     - Bern (recurrent, 2015-2019)
