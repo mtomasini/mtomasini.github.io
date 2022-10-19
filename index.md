@@ -7,6 +7,8 @@ author_profile: true
 
 - - -
 
+<span style="color:red">**Soon to be research engineer at the Centre for Digital Humanities at the University of Gothenburg! Stay tuned.**</span>
+
 Welcome to my website! I am a postdoc at the University of Gothenburg. In my work, I use mathematical modelling, simulations, and statistical methods to study population genetics in a spatial context, in particular in the marine environment. The ultimate goal is to use such methods to understand the influence of spatio-temporal factors on the evolution of genetic patterns.
 
 I did my PhD in population genetics at University of Bern, where I completed my thesis on rapid adaptation in the presence of gene flow.
