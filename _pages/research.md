@@ -3,7 +3,7 @@ title: Research
 permalink: /research/
 ---
 
-Here you can find more about the topics I am interested in, as well as the methods I use to answer questions in evolutionary biology.
+Since I only recently started my career in digital humanities, I still don't have any favorites to talk about on here. You can however read more about my past (and always current) interests in evolutionary biology.
 
 #### Range extensions and the establishment of range margins
 What determines species' range limits? In ecological theory, we would say that a species is stopped from expanding further in space if it reaches the limits of its own niche. An evolutionary biologist would say that the species fails to adapt in order to continue expanding. However, neither of these two answers is telling much about the underlying mechanisms: why is the limit of a niche reached? Why does adaptation fails at the margin of a habitat? 
