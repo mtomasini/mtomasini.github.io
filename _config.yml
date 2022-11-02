@@ -14,11 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Matteo Tomasini's research page
-subtitle: Researcher, Malécot appreciator, full-time social justice worrier
-email: matteo [dot] tomasini [at] gu [dot] se
+subtitle: Research software engineer, full-time social justice worrier
+email: matteo [dot] tomasini [at] lir [dot] gu [dot] se
 description: >- # this means to ignore newlines until "baseurl:"
-  Postdoc at University of Gothenburg, fascinated by evolutionary processes
-  determining species distribution and diversity in space and time. 
+  Research engineer in digital humanities at the University of Gothenburg. Passionate by interesting problems and political revolution. 
 twitter_username: mattomasini
 github_username: mtomasini
 minimal_mistakes_skin: "air" # "dirt", default
@@ -60,7 +59,7 @@ plugins:
 author:
   name   : "Matteo Tomasini"
   avatar : "/assets/images/tomasini_professional.jpg"
-  bio    : "Postdoc at University of Gothenburg, fascinated by evolutionary processes determining species distribution and diversity in space and time. Photo credit: Love Ekbeck."
+  bio    : "Research engineer in digital humanities at the University of Gothenburg. Passionate by interesting problems and political revolution. Photo credit: Love Ekbeck."
   links:
     #- label: "Website"
     # icon: "fas fa-fw fa-link"
