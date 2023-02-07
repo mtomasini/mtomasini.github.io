@@ -5,7 +5,7 @@ title: "About"
 
 [Here](/assets/docs/CV_semiacademic.pdf) you can find my CV. 
 
-I joined the [Centre for Digital Humanities](https://dh.gu.se) at the University of Gothenburg in the Fall of 2022, so I am very fresh in the field. I come with tremendous passion, but lots of ignorance in this specific domain. For the last 8 years, I developed my academic career in a direction that to this day I love and follow, becoming an evolutionary biologist. 
+I joined the [Gothenburg Research Infrastructure in Digital Humanities](https://dh.gu.se) (GRIDH) at the University of Gothenburg in the Fall of 2022, so I am very fresh in the field. I come with tremendous passion, but lots of ignorance in this specific domain. For the last 8 years, I developed my academic career in a direction that to this day I love and follow, becoming an evolutionary biologist. 
 
 ### Some history
 I did my PhD at the University of Bern, working in the [Interfaculty Bioinformatics Unit](https://www.bioinformatics.unibe.ch/index_eng.html) and the [Computational and Molecular Population Genetics](https://www.cmpg.iee.unibe.ch/index_eng.html) lab, under the supervision of [Dr. Stephan Peischl](http://www.bioinformatics.unibe.ch/about_us/staff/dr_peischl_stephan/index_eng.html) and [Prof. Laurent Excoffier](https://www.cmpg.iee.unibe.ch/about_us/team/researchers/prof_dr_excoffier_laurent/index_eng.html). My research there focused on processes of fast adaptation in a spatially explicit context, in particular in populations facing harsh environmental changes. In such situation, the establishment of new mutations is an important aspect in preventing extinction. The survival of an endangered population following the establishment of a beneficial mutation takes the name of “evolutionary rescue”.
