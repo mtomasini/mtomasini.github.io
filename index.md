@@ -7,7 +7,7 @@ author_profile: true
 
 - - -
 
-Welcome to my website! I am a research engineer in digital humanities at the University of Gothenburg. In my work, I develop different types of sofware solutions for the humanities. My specialty is the development and use of agent-based simulations, and I have further experience in mathematical modelling and statistical methods. I am part of the [Centre for Digital Humanities](https://www.gu.se/en/digital-humanities) and collaborate primarily with the [Maritime Encounters](https://www.gu.se/en/research/maritime-encounters) project. 
+Welcome to my website! I am a research engineer in digital humanities at the University of Gothenburg. In my work, I develop different types of sofware solutions for the humanities. My specialty is the development and use of agent-based simulations, and I have further experience in mathematical modelling and statistical methods. I am part of the [Gothenburg Research Infrastructure in Digital Humanities](https://www.gu.se/en/digital-humanities) and collaborate primarily with the [Maritime Encounters](https://www.gu.se/en/research/maritime-encounters) project. 
 
 I have a wide background and in the years I was lucky to be exposed to different topics within academia. 
 
