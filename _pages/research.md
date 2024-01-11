@@ -3,22 +3,20 @@ title: Research
 permalink: /research/
 ---
 
+
 ### Maritime encounters and ancient navigation
 
-Currently, I am mainly concerned with navigation during the Scandinavian Bronze Age. Using agent-based simulations, my collaborators and I are attempting to establish likely navigation routes that allowed Scandinavian populations to maintain a large and vibrant trade network. We merge modern climatological data with engineering considerations about boat building to model what were the navigation possibilities 3000 years ago. In addition, I contribute to the interpretation of results, as well as taking part to workshops and field experiments to test different ancient navigation possibilities. This led me to develop a strong interest in the building and navigation of logboats, in collaboration with the French association [Koruc](https://www.koruc.org/).
-
-On the side of Maritime Encounters, I borrow from my personal passion for visual astronomy to think about cultural astronomy -- _e.g._ the study of how humans saw and thought of the starry sky through history. An interesting question related to navigation in the Bronze Age regards astronomical methods of navigation: did Scandinavian populations navigating between 3400 and 1400 BC years ago use any stars beyond the Sun for orientation? We know from multiple sources that astronomical knowledge at the time was advanced: for example, in Hesiod we find references to astral farmer almanacs in the form of heliacal risings that were taken for granted in 700BC, and we find possible traces of similar knowledge way before then in the megalithic temples in Malta (M. Hoskin, 2001). If you have any interest in these topics, and want to incorporate digital components to it, reach out!
+As part of the Gothenburg Research Infrastructure in Digital Humanities (GRIDH), I lend my knowledge of agent-based modelling to the Maritime Encounters project, which aims at studying the importance of the sea for the social fabric during the Scandinavian Bronze Age (1700-500 BC) and earlier. My collaborators and I are attempting to establish likely navigation routes that allowed Scandinavian populations to maintain a large and vibrant trade network. We merge modern climatological data with engineering considerations about boat building to model what were the navigation possibilities up to 4000 years ago. Additionally, I contribute to the interpretation of results, and - in a twist of my destiny as a theoretician - I take part in field experiments to test the performance of boats built using ancient methods (such as skin boats and logboats).
 
 ### Digital humanities
 
-My department at the University of Gothenburg specializes among other things in the visualization of historical data in space and time. Currently, I am involved in the creation of a portal to visualize different types of documentations (images, documents, 3D models) of Etruscan tombs. While I am mostly responsible for the development of the backend and the database, I am slowly learning a few principles in frontend development as well.
+My department at the University of Gothenburg specializes in the visualization of historical and cultural heritage data in space and time. I am actively one of the developers behind the Multimodal Map tool developed at GRIDH, which was used to build - among other things - the [Etruscan Chamber Tombs portal](https://etruscan.dh.gu.se), a portal for the exploration of visual data collected in and around the Etruscan tombs in San Giovenale, Italy. Currently, I am mostly responsible for the development of the backend and the database, while I am slowly learning a few principles in frontend development as well. I am also being formed in documentation techniques, especially 3D digitization techniques. Finally, I am collaborating in a project that is attempting to analyse the soundtracks in conspiracy movies.
 
-Related to my job, in my own time I have recently picked up again the study of ancient Greek, which I had undertaken during high school. While my current major interest is in ancient history, I harbor a deep passion for all subjects related to the humanities - and all of science in general.
+Additionally to my institutional tasks, I am still developing my personal research interests. One of my biggest interests is visual astronomy, and I am especially interested in research topics going from star navigation in ancient times to the history of modern astronomy. One aspect that I am particularly passioned about is the rise of light pollution and its impacts not only on the biosphere, but on humans' sense of wonder. If you have any interest in these topics, and want to incorporate digital components to it, reach out!
 
 ### InfraVis
 
-Through my position at GRIDH, I am employed 25% in [InfraVis](https://infravis.se/), a Swedish national research infrastructure supporting scientific advancement through the application of state-of-the-art data analysis and visualization techniques. I am currently involved in a collaboration with the Ditigal Twin City Center of Gothenburg, and will develop further research projects within the infrastructure. Stay tuned!
-
+Through my position at GRIDH, I am employed 25% in [InfraVis](https://infravis.se/), a Swedish national research infrastructure supporting scientific advancement through the application of state-of-the-art data analysis and visualization techniques. I am currently involved in several research projects within the infrastructure, where I serve as a software engineer. Stay tuned!
 
 ### Addendum: Evolutionary biology
 
