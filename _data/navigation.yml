@@ -3,9 +3,11 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
+  - title: "Software"
+    url: /my-software/
   - title: "Publications"
     url: /publications/
-  - title: "Blog"
-    url: /blog/
+  # - title: "Blog"
+  #   url: /blog/
   - title: "Collection"
     url: /collection/
