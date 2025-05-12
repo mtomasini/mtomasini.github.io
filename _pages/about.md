@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-[Here](/assets/docs/CV_Tomasini_Apr2025.pdf) you can find my CV.
+[Here](/assets/docs/CV_Tomasini_UpToDate.pdf) you can find my CV.
 
 I joined the [Gothenburg Research Infrastructure in Digital Humanities](https://dh.gu.se) (GRIDH) at the University of Gothenburg in November 2022, so I am relatively fresh in the field. I came with tremendous passion, but lots of ignorance in this specific domain - hired for my engineer skills more than for my interests. From 2015 to 2023, I developed my academic career in a direction that to this day I love and follow, becoming an evolutionary biologist. The academic system chewed me properly and left a long-lasting impression - but I was lucky enough to end in a position that I love.
 
