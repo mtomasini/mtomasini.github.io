@@ -3,10 +3,10 @@ title: My Collection
 permalink: /collection/
 ---
 
-People have fun collecting many different things. In the years I created quite a particular collection: I collect places where I ran. To enter in my collection, a run needs to either be an official race (even popular, as long as it required to sign in), or having been longer than 30 minutes. Here goes (in alphabetical order, by country)!
+People have fun collecting many different things. In the years I created quite a particular collection: I collect places where I ran. To enter in my collection, a run needs to either be an official race (even popular, as long as it required to sign in), or having been longer than 30 minutes. Here goes (in alphabetical order, by country). In bold are my favorites! 
 
 - Deutschland
-  - Berlin (18.09.10)
+  - **Berlin** (18.09.10)
 - France
   - Cagnes-sur-mer (18.08.10)
 - Nederland
@@ -16,13 +16,14 @@ People have fun collecting many different things. In the years I created quite a
 - Sverige
   - Borås (recurrent, 2021-2023)
   - Göteborg (recurrent, 2021-present)
+  - Stockholm (12.11.25)
   - Strömstad / Tjärnö (17-18.08.21)
   - Sälen (23.06.22)
 - Schweiz / Suisse / Svizzera
   - Ascona (recurrent, 2006-2008)
-  - Bern (recurrent, 2015-2019)
+  - **Bern** (recurrent, 2015-2019)
   - Bière (recurrent, 2008)
-  - Cardada (recurrent, 2006-2008)
+  - **Cardada** (recurrent, 2006-2008)
   - Genève (recurrent, 2009-2014)
   - Lausanne (several races, 2009-2018)
   - Locarno (recurrent, 2006-2021)
@@ -33,7 +34,7 @@ People have fun collecting many different things. In the years I created quite a
   - Tenero (14.11.10, Half-Marathon)
   - Tesserete (cross Ticino 2009 and 2010)
   - Uster (Uster Triathlon, 2018)
-  - Val Verzasca (29.08.2021)
+  - **Val Verzasca** (29.08.2021)
   - Zug (Zytturm Triathlon, 2017 and 2018)
   - Zürich (Züritriathlon 2007, 5150 Series - 2017)
 - United States of America
