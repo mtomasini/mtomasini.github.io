@@ -18,9 +18,9 @@ subtitle: Research software engineer, full-time social justice worrier
 email: matteo [dot] tomasini [at] lir [dot] gu [dot] se
 description: >- # this means to ignore newlines until "baseurl:"
   Research engineer in digital humanities at the University of Gothenburg. Passionate by interesting problems and political revolution. 
-twitter_username: mattomasini
+#twitter_username: mattomasini
 github_username: mtomasini
-minimal_mistakes_skin: "air" # "dirt", default
+minimal_mistakes_skin: "dirt" # "dirt", default
 search: true
 
 # Build settings
