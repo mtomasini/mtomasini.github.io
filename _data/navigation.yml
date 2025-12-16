@@ -7,7 +7,7 @@ main:
     url: /my-software/
   - title: "Publications"
     url: /publications/
-  # - title: "Blog"
-  #   url: /blog/
+  - title: "Astrophotography"
+    url: /astrophotography/
   - title: "Collection"
     url: /collection/
