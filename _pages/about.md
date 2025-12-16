@@ -21,7 +21,7 @@ I have a keen interest in the technical side of the scientific endeavour: that i
 
 I am also passionate about teaching: it is the duty of any person with knowledge to try and pass it to other people, and in particular to the new generations. That is why I am always happy to pursue projects of scientific dissemination.
 
-In my free time I like to practice endurance sports and to try out ever new hobbies. In the past, among other things, I studied the art of magic (intended as illusion, not as dark magic), acting in theater, solving rubik's cubes fast, singing in choirs, playing piano and guitar, played and refereed [tchoukball](https://www.youtube.com/watch?v=GaMCX6JpjXs)... Currently, I'm taking a serious interest in visual astronomy.
+In my free time I like to practice endurance sports and to try out ever new hobbies. In the past, among other things, I studied the art of magic (intended as illusion, not as dark magic), acting in theater, solving rubik's cubes fast, singing in choirs, playing piano and guitar, played and refereed [tchoukball](https://www.youtube.com/watch?v=GaMCX6JpjXs)... Currently, the hobbies that I spend most time thinking about are running long distances, visual astronomy and astrophotography, and chess.
 
 ***
 
