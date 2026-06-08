@@ -17,11 +17,12 @@ permalink: /publications/
 
 Here is a list of the software and web-apps that are currently published either as a deployed version on the net, or as part of a peer-reviewed paper. You can see more about my software on the Software page (see above).
 
-1. J. Westin, T. Bridge, **M. Tomasini** (2025), *Etruscan Chamber Tombs*, [Web portal] v.1.1 GRIDH. [https://etruscan.dh.gu.se/](https://etruscan.dh.gu.se)
-1. J. Westin, T. Bridge, **M. Tomasini**, A. Green, A. Karimi (2024), *Saint Sophia's Inscriptions*, [Web portal] v.1.51 GRIDH [https://saintsophia.dh.gu.se](https://saintsophia.dh.gu.se)
+1. J. Westin, T. Bridge, **M. Tomasini** (2025), *Etruscan Chamber Tombs*, [Web portal] v.1.5 GRIDH. [https://etruscan.dh.gu.se/](https://etruscan.dh.gu.se)
+1. J. Westin, T. Bridge, **M. Tomasini**, A. Green, A. Karimi (2024), *Saint Sophia's Inscriptions*, [Web portal] v.1.6 GRIDH [https://saintsophia.dh.gu.se](https://saintsophia.dh.gu.se)
+1. J. Westin, T. Bridge, **M. Tomasini** (2024), *Per Dubbshuset*, [Web portal] v.1.0 GRIDH. [https://perdubbshuset.dh.gu.se](https://perdubbshuset.dh.gu.se)
 
 ## Submitted work
 
-Here you can find work that was submitted at some point but that has not found luck (yet).
+Here you can find work that was submitted at some point but that has not found luck (yet?).
 
 1. M. Eriksson\*, **M. Tomasini**\*, K. Johannesson, M. Rafajlović, *Shallow environmental gradients can cause range margins to form*, preprint. [pdf on [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.03.19.484973v2.full.pdf)] -- \*equal authorship
