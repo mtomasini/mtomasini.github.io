@@ -7,9 +7,9 @@ author_profile: true
 
 - - -
 
-Welcome to my website! I am a research engineer in digital humanities at the University of Gothenburg. In my work, I develop different types of sofware solutions for the humanities. My specialty is the development and use of agent-based simulations, and I have further experience in mathematical modelling and statistical methods. I am part of the [Gothenburg Research Infrastructure in Digital Humanities](https://www.gu.se/en/digital-humanities) and collaborate primarily with the [Maritime Encounters](https://www.gu.se/en/research/maritime-encounters) project.
+Welcome to my website! I am a researcher in computational archaeology and digital humanities, hired as research engineer at the University of Gothenburg. In my work, I support researchers in the humanities, and develop different types of sofware solutions for their needs. My specialty is the development and use of agent-based simulations, and I have further experience in mathematical modelling and statistical methods. I am part of the [Gothenburg Research Infrastructure in Digital Humanities](https://www.gu.se/en/digital-humanities) and collaborate primarily with the [Maritime Encounters](https://www.gu.se/en/research/maritime-encounters) project.
 
-I have a wide background and in the years I was lucky to be exposed to different topics within academia.
+I have a wide background and in the years I was lucky to be exposed to different topics within academia. Currently, I work mostly with computational archaeology and cultural heritage, but I provide support for many other projects.
 
 Ever since my youth I have been curious and interested in all domains of knowledge. After studying ancient Greek and Latin in high school, I studied theoretical physics at the University of Geneva. Not finding my intellectual home in physics, I did my PhD in population genetics at University of Bern, where I completed my thesis on rapid adaptation in the presence of gene flow, before taking on two separate postdocs in evolutionary biology. I finally landed my current position at the end of 2022.
 

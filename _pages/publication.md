@@ -15,7 +15,7 @@ permalink: /publications/
 
 ## Software
 
-Here is a list of the software and web-apps that are currently published either as a deployed version on the net, or as part of a peer-reviewed paper. You can see more about my software on the Software page (see above).
+Here is a list of the software and web-apps that are currently published either as a deployed version on the net, or as part of a peer-reviewed paper. More of my software is published on Github and accessible, but not yet peer-reviewed. You can see more about that software on the Software page (see above).
 
 1. J. Westin, T. Bridge, **M. Tomasini** (2025), *Etruscan Chamber Tombs*, [Web portal] v.1.5 GRIDH. [https://etruscan.dh.gu.se/](https://etruscan.dh.gu.se)
 1. J. Westin, T. Bridge, **M. Tomasini**, A. Green, A. Karimi (2024), *Saint Sophia's Inscriptions*, [Web portal] v.1.6 GRIDH [https://saintsophia.dh.gu.se](https://saintsophia.dh.gu.se)

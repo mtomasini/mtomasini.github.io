@@ -14,7 +14,7 @@ Among other things, my department at the University of Gothenburg specializes in
 
 ### InfraVis
 
-Through my position at GRIDH, I am employed at 10% as an Application Expert at [InfraVis](https://infravis.se/matteo-tomasini/), the Swedish national research infrastructure supporting scientific advancement through the application of state-of-the-art visualization techniques. I am currently involved in outreach for scientific visualization, and in the past I have been employed in different projects, becoming both project owner and project manager of several projects within the infrastructure. This exposed me to the most disparate fields in research, from volcanology to nutritional sciences.
+Through my position at GRIDH, I am an Application Expert at [InfraVis](https://infravis.se/matteo-tomasini/), the Swedish national research infrastructure supporting scientific advancement through the application of state-of-the-art visualization techniques. I am currently involved in outreach for scientific visualization, and in the past I have been employed in different projects, becoming both project owner and project manager of several projects within the infrastructure. This exposed me to the most disparate fields in research, from volcanology to nutritional sciences.
 
 ### Addendum: Evolutionary biology
 
