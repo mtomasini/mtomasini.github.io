@@ -4,7 +4,8 @@ permalink: /publications/
 ---
 
 ## Peer-reviewed publications
-
+1. B. Bengtsson, M. Prince, A. Montenegro, **M. Tomasini** (accepted), _Testing the digital reconstruction of the Varpelev Boat using predicted boat performance data and agent-based simulations_, in M. Ravn and O. T. Kastholm, _Ships and Boats of the North - Volume 10: The Varpelev Boat_, The Vikings Ship Museum, Roskilde.
+1. B. Bengtsson, J. Ling, A. Montenegro, **M. Tomasini** (accepted), _Exploring the western maritime trade route: how Great Orme copper (and Cornish tin) made it into Scandinavia c.1700–1400 BC_, in J. Koch, M. Fauvelle, B. Cunliffe, and J. Ling, _Moving Metals by Sea: Great Orme and the Bronze Age World_, Oxbow Books
 1. J. Westin, C. Lindhé, D. Brodén, G. Almevik, **M. Tomasini**, (2025) *DigiCURE: Building a Digital Humanities Infrastructure for Preserving and Studying At-risk Cultural Heritage*, Proceedings of the second HumInfra Conference (HiC 2025), 115--121, [PDF of the proceedings](https://www.huminfra.se/resources/humevents/hic-2025_proceedings.pdf)
 1. J. Rieder, M. Jahnke, ..., **M. Tomasini**, F. A. M. Volckaert, (2025) *Seascape genomics: assisting marine biodiversity management by combining genetic knowledge with environmental and ecological information*, Marine Policy, 182. [published in [Marine Policy](https://www.sciencedirect.com/science/article/pii/S0308597X25002830)]
 1. B. Bengtsson, A. Montenegro, A. Green, **M. Tomasini**, M. Prince, V. Wåhlstrand Skärström, K. I. Austvoll, J. Ling, C. Lindhé (2025), *Seafaring and navigation in the Nordic Bronze Age: The application of an ocean voyage tool and boat performance data for comparing direct open water crossings with sheltered coastal routes*, PLOS One, [10.1371/journal.pone.0320791](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320791).
@@ -23,6 +24,7 @@ Here is a list of the software and web-apps that are currently published either 
 
 ## Submitted work
 
-Here you can find work that was submitted at some point but that has not found luck (yet?).
+Here you can find work that was submitted at some point but that has not found luck (yet?). 
 
+1. M. Vander Linden, **M. Tomasini** (under review) _Simulating a (Bell Beaker) metapopulation: theoretical and methodological implications for analysing the archaeological record_, Proceedings of the 23rd Archéologie & Gobelets Conference, Vannes, 2026
 1. M. Eriksson\*, **M. Tomasini**\*, K. Johannesson, M. Rafajlović, *Shallow environmental gradients can cause range margins to form*, preprint. [pdf on [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.03.19.484973v2.full.pdf)] -- \*equal authorship
