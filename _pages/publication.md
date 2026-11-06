@@ -18,6 +18,7 @@ permalink: /publications/
 
 Here is a list of the software and web-apps that are currently published either as a deployed version on the net, or as part of a peer-reviewed paper. More of my software is published on Github and accessible, but not yet peer-reviewed. You can see more about that software on the Software page (see above).
 
+1. **M. Tomasini**, (2026). *Pytheas Simulator* [Computer software]. v1.5.0 Zenodo. [https://doi.org/10.5281/zenodo.23264745](https://doi.org/10.5281/zenodo.23264745)
 1. J. Westin, T. Bridge, **M. Tomasini** (2025), *Etruscan Chamber Tombs*, [Web portal] v.1.5 GRIDH. [https://etruscan.dh.gu.se/](https://etruscan.dh.gu.se)
 1. J. Westin, T. Bridge, **M. Tomasini**, A. Green, A. Karimi (2024), *Saint Sophia's Inscriptions*, [Web portal] v.1.6 GRIDH [https://saintsophia.dh.gu.se](https://saintsophia.dh.gu.se)
 1. J. Westin, T. Bridge, **M. Tomasini** (2024), *Per Dubbshuset*, [Web portal] v.1.0 GRIDH. [https://perdubbshuset.dh.gu.se](https://perdubbshuset.dh.gu.se)
